@@ -5,6 +5,9 @@ import os
 
 SETTINGS_FILE_PATH = "./settings.json"
 
+INDENT = " " * 4
+MOD_DEFINITION_FILE_NAME = "_definition.json"
+
 KEY_LIBRARY = "LIBRARY"
 KEY_ARCHIVE = "ARCHIVE"
 KEY_GAMES = "GAMES"
