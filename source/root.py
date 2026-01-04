@@ -85,8 +85,8 @@ class Settings(dict):
             raise InternalError(f"invalid path")
 
 
-# if __name__ == "__main__":
-os.chdir("..")
+if __name__ == "__main__":
+    os.chdir("..")
 
 settings = Settings()
 loaded = settings.load()

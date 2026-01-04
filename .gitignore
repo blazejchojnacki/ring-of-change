@@ -1,5 +1,6 @@
 /.venv
 /.idea
-settings.json
 /source/__pycache__
 /trials/__pycache__
+
+settings.json

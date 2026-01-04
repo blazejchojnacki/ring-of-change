@@ -1,6 +1,8 @@
 import os.path
 import unittest
 
+os.chdir('..')
+
 import source.root as rt
 import source.ground
 
